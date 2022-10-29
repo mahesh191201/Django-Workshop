@@ -1,0 +1,84 @@
+00:00:00.000787 main     VirtualBox COM Server 6.1.30 r148432 win.amd64 (Nov 22 2021 15:15:30) release log
+00:00:00.000792 main     Log opened 2021-12-01T08:09:21.520504000Z
+00:00:00.000793 main     Build Type: release
+00:00:00.000803 main     OS Product: Windows 10
+00:00:00.000804 main     OS Release: 10.0.16299
+00:00:00.000804 main     OS Service Pack: 
+00:00:00.037171 main     DMI Product Name: Vostro 3902  
+00:00:00.047831 main     DMI Product Version:   
+00:00:00.047847 main     Firmware type: BIOS
+00:00:00.047856 main     Host RAM: 4012MB (3.9GB) total, 1922MB available
+00:00:00.047863 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.047863 main     Process ID: 6420
+00:00:00.047864 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.125778          VirtualBox: object creation starts
+00:00:00.126027          Home directory: 'C:\Users\Student\.VirtualBox'
+00:00:00.126133          Installed Drivers:
+00:00:00.133660            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.30.48432)
+00:00:00.134458            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.30.48432)
+00:00:00.135088            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.30.48432)
+00:00:00.135960            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.30.48432)
+00:00:00.173984          Loading settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.175826          usbLibGetDevices: Starting USB device enumeration
+00:00:00.306269          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.450900          HostDnsMonitor: initializing
+00:00:00.456573          HostDnsMonitor: updating information
+00:00:00.456609          HostDnsMonitor: old information
+00:00:00.456610            no server entries
+00:00:00.456611            no domain set
+00:00:00.456611            no search string entries
+00:00:00.456612          HostDnsMonitor: new information
+00:00:00.456613            server 1: 61.1.1.1
+00:00:00.456613            server 2: 103.211.109.11
+00:00:00.456614            server 3: 8.8.8.8
+00:00:00.456614            no domain set
+00:00:00.456614            no search string entries
+00:00:00.693755          VD: VDInit finished with VINF_SUCCESS
+00:00:00.715199          Loading settings file "C:\Users\Student\VirtualBox VMs\Kali-Linux-2020.2-vbox-amd64\Kali-Linux-2020.2-vbox-amd64.vbox" with version "1.16-windows"
+00:00:00.722453          Loading settings file "C:\Users\Student\VirtualBox VMs\METASPLIOTABLE\METASPLIOTABLE.vbox" with version "1.16-windows"
+00:00:00.736882          OCI: Local config file 'C:\Users\Student\.VirtualBox\oci_config' does not exist
+00:00:00.736985          OCI: Original config file 'C:\Users\Student\.oci\config' does not exist
+00:00:00.736986          OCI: Reading profiles finished with status ERROR_SUCCESS
+00:00:00.736997          ExtPack: Created cloud provider 'OCI' (hrc=ERROR_SUCCESS)
+00:00:00.737028          VirtualBox: object created
+00:00:35.972490          Launched VM: 103507856 pid: 7692 (0x1e0c) frontend: GUI/Qt name: METASPLIOTABLE
+00:00:42.309225          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:00:46.483340          Saving settings file "C:\Users\Student\VirtualBox VMs\METASPLIOTABLE\METASPLIOTABLE.vbox" with version "1.16-windows"
+00:02:07.382469          Saving settings file "C:\Users\Student\VirtualBox VMs\METASPLIOTABLE\METASPLIOTABLE.vbox" with version "1.16-windows"
+00:02:07.414145          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:02:07.415706 SaveState Saving settings file "C:\Users\Student\VirtualBox VMs\METASPLIOTABLE\METASPLIOTABLE.vbox" with version "1.16-windows"
+00:02:09.897984          Launched VM: 80008560 pid: 6060 (0x17ac) frontend: GUI/Qt name: Kali-Linux-2020.2-vbox-amd64
+00:02:14.703270          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:02:30.784747          Saving settings file "C:\Users\Student\VirtualBox VMs\Kali-Linux-2020.2-vbox-amd64\Kali-Linux-2020.2-vbox-amd64.vbox" with version "1.16-windows"
+00:07:58.591899 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:07:58.721903 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:07:59.092618 dns-monitor HostDnsMonitor: updating information
+00:07:59.092644 dns-monitor HostDnsMonitor: unchanged
+00:22:26.004836          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:27:59.498281 dns-monitor HostDnsMonitor: updating information
+00:27:59.498350 dns-monitor HostDnsMonitor: unchanged
+00:47:59.565998 dns-monitor HostDnsMonitor: updating information
+00:47:59.567160 dns-monitor HostDnsMonitor: unchanged
+01:07:59.711002 dns-monitor HostDnsMonitor: updating information
+01:07:59.711029 dns-monitor HostDnsMonitor: unchanged
+01:27:58.924796 dns-monitor HostDnsMonitor: updating information
+01:27:58.924881 dns-monitor HostDnsMonitor: unchanged
+01:47:58.979923 dns-monitor HostDnsMonitor: updating information
+01:47:58.980056 dns-monitor HostDnsMonitor: unchanged
+02:07:59.009454 dns-monitor HostDnsMonitor: updating information
+02:07:59.009487 dns-monitor HostDnsMonitor: unchanged
+02:19:16.172987          Saving settings file "C:\Users\Student\VirtualBox VMs\Kali-Linux-2020.2-vbox-amd64\Kali-Linux-2020.2-vbox-amd64.vbox" with version "1.16-windows"
+02:19:16.501240          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+02:19:16.528315          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+02:19:16.670207 SaveState Saving settings file "C:\Users\Student\VirtualBox VMs\Kali-Linux-2020.2-vbox-amd64\Kali-Linux-2020.2-vbox-amd64.vbox" with version "1.16-windows"
+02:19:17.367963          Saving settings file "C:\Users\Student\VirtualBox VMs\Kali-Linux-2020.2-vbox-amd64\Kali-Linux-2020.2-vbox-amd64.vbox" with version "1.16-windows"
+02:20:12.111555          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+02:20:12.175259          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+02:20:12.220559          Saving settings file "C:\Users\Student\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+02:20:17.788778 main     VirtualBox: object deletion starts
+02:20:17.808513 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Student\VirtualBox VMs\Kali-Linux-2020.2-vbox-amd64\Kali-Linux-2020.2-vbox-amd64-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:20:17.809368 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Student\Desktop\Metasploitable2-Linux\Metasploitable.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:20:17.845424 main     HostDnsMonitor: shutting down ...
+02:20:17.845641 main     HostDnsMonitor: shut down
+02:20:17.855830 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+02:20:17.856366 main     VirtualBox: object deleted

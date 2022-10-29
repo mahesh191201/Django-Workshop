@@ -1,0 +1,31 @@
+00:00:01.298594 VirtualBox GUI VM Selector Window 6.1.30 r148432 win.amd64 (Nov 22 2021 15:15:30) release log
+00:00:01.298596 Log opened 2021-11-30T04:20:08.272968700Z
+00:00:01.298597 Build Type: release
+00:00:01.298603 OS Product: Windows 10
+00:00:01.298604 OS Release: 10.0.16299
+00:00:01.298605 OS Service Pack: 
+00:00:01.308339 DMI Product Name: Vostro 3902  
+00:00:01.311215 DMI Product Version:   
+00:00:01.311234 Firmware type: BIOS
+00:00:01.311243 Host RAM: 4012MB (3.9GB) total, 2182MB (2.1GB) available
+00:00:01.311249 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.311250 Process ID: 5732
+00:00:01.311250 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.311407 Qt version: 5.6.2
+00:00:01.405900 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.028490 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:06.851164 convertVerifyAndAddPemCertificateToStore: cbData=0x1c624 expected 0x4d7
+00:00:06.863343 refreshCertificates/#3: Found 0/37 SSL certs we/you trust (previously 0/36).
+00:03:31.363539 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:03:31.402902 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:36.012387 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:18:00.809242 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:18:34.312410 GUI: UIMediumEnumerator: Medium with key={{a77b3a6c-f931-47cb-befd-5360316c5e1a}} created
+00:18:34.348924 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:18:37.401046 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:18:51.187280 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:18:57.507884 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:29:09.990155 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:51:54.755280 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:06:08.559648 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:06:08.559777 Log rotated - Log started 2021-11-30T04:20:08.272968700Z
